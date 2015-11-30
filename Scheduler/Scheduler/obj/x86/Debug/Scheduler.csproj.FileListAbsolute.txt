@@ -1,0 +1,18 @@
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Properties.Resources.resources
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb
+C:\Documents and Settings\dav\My Documents\Visual Studio 2010\Projects\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Form1.resources
+I:\DAVFiles\Scheduler\Scheduler\obj\x86\Debug\Scheduler.exe
+I:\DAVFiles\Scheduler\Scheduler\obj\x86\Debug\Scheduler.pdb
+I:\DAVFiles\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+I:\DAVFiles\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+I:\DAVFiles\Scheduler\Scheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\DAVFiles\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Form1.resources
+I:\DAVFiles\Scheduler\Scheduler\obj\x86\Debug\Scheduler.Properties.Resources.resources
+I:\DAVFiles\Scheduler\Scheduler\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\DAVFiles\Scheduler\Scheduler\obj\x86\Debug\GenerateResource.write.1.tlog
